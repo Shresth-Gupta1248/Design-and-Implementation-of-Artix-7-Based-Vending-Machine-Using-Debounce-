@@ -1,0 +1,2 @@
+# -Shresth-Gupta1248-Design-and-Implementation-of-Artix-7-Based-Vending-Machine-Using-Debounce-
+ending machines are automated systems that dispense products based on user input and payment. In this project, a vending machine is implemented using FPGA (Field Programmable Gate Array) and Verilog HDL.This system is implemented on the Artix-7 FPGA board, where switches and push buttons act as inputs and LEDs indicate output
